@@ -1,3 +1,5 @@
+LIAMIDI Firdaos Folachade 
+
 a) La commande "git fetch" télécharge les dernières modifications à partir du depot distant et les enregistre dans le depot local mais ne fusionne pas les modifications avec les fichiers locaux tandis que 
 "git pull" telecharge les dernières modifications à partir du dépot distant et fusionne automatiquement ces modifications avec les fichiers locaux.
 
